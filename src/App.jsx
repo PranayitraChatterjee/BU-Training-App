@@ -14,7 +14,7 @@ const App = () => {
 
   userflow.init('ct_umwlhw7dundt5palvciagxjh6y')
   userflow.identify('Pranayitra_Chatterjee_id', {
-    name: 'Pranayitra_Chatterjee',
+    name: 'Pranayitra Chatterjee',
     email: 'pranayitra.chatterjee@userflow.com',
     signed_up_at: '2025-01-22T20:00:00Z'
   })
